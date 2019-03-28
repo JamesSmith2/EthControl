@@ -17,7 +17,7 @@ Register your account today @ https://ethmonitoring.com
 - XMR-Stak
 - CCMiner (Forks also)
 - Gateless gate
-- NoncePro
+- NoncerPro
 - TRex
 - XMRig
 - TeamRedMiner
