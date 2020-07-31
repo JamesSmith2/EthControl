@@ -1,7 +1,7 @@
 # EthControl
-Mining rig controlling remotely
+Mining rig controlling remotely, crypto mining rig monitoring and controlling software all-in-one tool. Supports custom mining software deployment. Reads nVidia and AMD GPU statistics directly. Custom triggers and actions supported, fan curve support, remote start/stop and more.
 
-Register your account today @ https://ethmonitoring.com
+Register your account today @ https://minermonitoring.com and start monitoring your crypto mining rig.
 
 # Supports
 
@@ -19,6 +19,7 @@ Register your account today @ https://ethmonitoring.com
 - Gateless gate
 - NoncerPro
 - TRex
+- GMiner
 - XMRig
 - TeamRedMiner
 - TTMiner
