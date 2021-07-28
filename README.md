@@ -1,3 +1,8 @@
+# New version
+
+Latest version available here now: https://github.com/JamesSmith2/MinerControl
+
+
 # EthControl
 Mining rig controlling remotely, crypto mining rig monitoring and controlling software all-in-one tool. Supports custom mining software deployment. Reads nVidia and AMD GPU statistics directly. Custom triggers and actions supported, fan curve support, remote start/stop and more.
 
